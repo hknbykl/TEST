@@ -43,7 +43,7 @@ fun FillArray(): Array<Int>
     }
     return SimplifyArray(GraphArray)
 }
-
+///
 fun GetMax(GraphArray: Array<Int>) : Int
 {
     var max = GraphArray[0]
